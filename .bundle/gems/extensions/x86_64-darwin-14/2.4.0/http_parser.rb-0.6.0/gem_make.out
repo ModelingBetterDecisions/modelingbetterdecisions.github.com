@@ -1,0 +1,16 @@
+current directory: /Users/Skylar/Documents/projects/modeling-better-decisions2/.bundle/gems/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/Users/Skylar/.rvm/rubies/ruby-2.4.2/bin/ruby -r ./siteconf20190326-3069-h6i60x.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Skylar/Documents/projects/modeling-better-decisions2/.bundle/gems/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/Skylar/Documents/projects/modeling-better-decisions2/.bundle/gems/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/Skylar/Documents/projects/modeling-better-decisions2/.bundle/gems/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20190326-3069-1t8qmus
