@@ -1,8 +1,11 @@
 ---
 layout: default
-img: ipad.png
+img: gravitate.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Iowa .NET User Group:<br>
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Modeling Better Decisions talk will be presented at the Iowa .NET User Group on Thu, 7 March 2019,<br><br>
+
+  5:45 PM - 6:00 PM - Pizza<br>
+  6:00 PM - 7:00 PM - Modeling Better Decisions

@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: logo_ab_blk.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Agile & Beyond:<br>
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+  Modeling Better Decisions talk will be presented at Agile & Beyond 2019 on Fri, 31 May 2019, 3:55 pm - 4:40 pm.
