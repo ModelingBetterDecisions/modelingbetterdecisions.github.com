@@ -1,0 +1,59 @@
+Name: 3Ways
+Summary: Based on Theory of Constraints and Lean Manugactoring, the 3 Ways has been central to the DevOps movement.  
+The focus ensures that improvements are supported to be sustainable.  
+For example, it doesn't help us to know what errors are happening in production if we can't reliably deliver a solution.  
+We don't want to tweak a step in the process without knowing if it makes the overall process better or worse. 
+
+The current state of DevOps has a growing body of concepts and tools.  
+The 3 Ways helps us focus on the right areas at the right time.
+
+Reference:
+Jez Humble, Gene Kim
+Continuous Delivery, DevOps Handbook, the Phoenix Project
+
+
+Name: Dreyfus Model of Skill Acquisition
+AKA: Genesis of the expertise
+
+Summary: We go throught a journey when learning.  
+Early on, the concepts and relationships seem reasonable.  We can logically understand.  
+Your understanding of a given topic is reflected in your abillity to do the thing, talk about the thing and then evenaually teach the thing so someone else can explain or do it.
+
+The approach and words we use reflects both where we are on our jouurney and where we perceive others to be.
+Attempting to teach someone is a great way to identify what you may need to learn more to be effective.
+
+Name: DISC personality Model
+AKA: Meyers Briggs Model
+Summary: Understanding our values and how we operate is as important as recognizing the same in others. 
+Often we project our own values onto others and are met with conflict.  
+
+
+Name: Buy vs Build
+Summary: It's difficult to know what to say Yes to or No to.  
+This quick check helps pressure-test an opporrtunity.  
+Could we build this?  Quite possibly yes.  Should we?  Perhaps no.
+
+Name: Cost Benefit analysis
+aka: Is the Juice worth the Squeeze
+Summary: Another stalward in business schools.  How can we quantifiably justify an expendituer for an improved return.  
+The relationship betwen Cost and Value is critical. It is often difficult to validate as we leverage the data which is often most easy to collect.
+(aka availability bias).
+
+Name: Cargo culture
+Summary: The scenario where people go through the motions without knowing the purpose of them or the nuances which would impact the outcomes.  
+i.e. "We do the thing because it's the thing and we've always done that thing.  It's how you Agile!"
+Origin for the phrase comes from WWII when remote islands were converted into military bases.  After the war the natives created airplanes made out of bamboo to appease the gods to return the shipments of food.
+
+Name: Dashboard, Big Visible Radiator, Make it Visible
+Summary: Increase understanding by making information simple and visible.  Humans are heavily reliant upon their visual senses.  It's much more effective and effecient for people to leverage their eyes than their minds to understan.
+
+Name: Scatter Gather model
+aka: Divide And Conquer
+Summary: An optimization strategy focused on short-term, individual gains.  
+Focusing on multiple individuals to work on parallel tasks creates the illusion of shorter cycle times.  
+Often this is not the case.  Knowledge silos may create bottlenecks. Knowledge Transfer and documentation are add-on processes to address the symptoms and come at the cost of future work.  
+
+~~
+We are curators of knowledge sharing our approach to learning.  
+This is Meta.  A model of models. A Lesson on Learning.  Shortcut to Shortcuts.
+
