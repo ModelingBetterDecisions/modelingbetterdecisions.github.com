@@ -5,7 +5,6 @@ category: Services
 title: Iowa .NET User Group:<br>
 description: |
 ---
-  Modeling Better Decisions talk will be presented at the Iowa .NET User Group on Thu, 7 March 2019,<br><br>
+  Modeling Better Decisions talk will be presented at Agile2022 - Nashville, TN on Thu, 21 July 2021,<br><br>
 
-  5:45 PM - 6:00 PM - Pizza<br>
-  6:00 PM - 7:00 PM - Modeling Better Decisions
+  10:00 AM - 11:30 AM - Modeling Better Decisions
