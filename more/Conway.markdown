@@ -1,12 +1,16 @@
 ---
-layout: default
+layout: moar
 img: ipad.png
-category: More
+category: moar
 title: Conway's 
-subtitle: asdf
-
-
+escription: |
 ---
+  Modeling Better Decisions talk will be presented at the Iowa .NET User Group on Thu, 7 March 2019,<br><br>
+
+  5:45 PM - 6:00 PM - Pizza<br>
+  6:00 PM - 7:00 PM - Modeling Better Decisions
+
+
 The description of this service
 
 Name: Conways Law
