@@ -1,10 +1,10 @@
 ---
 layout: default
-img: gravitate.png
+img: Agile2022.png
 category: Services
-title: Iowa .NET User Group:<br>
+title: Agile2022:<br>
 description: |
 ---
   Modeling Better Decisions talk will be presented at Agile2022 - Nashville, TN on Thu, 21 July 2021,<br><br>
 
-  10:00 AM - 11:30 AM - Modeling Better Decisions
+  10:45 AM - 12:00 PM - Modeling Better Decisions

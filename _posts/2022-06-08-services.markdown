@@ -1,8 +1,8 @@
 ---
 layout: default
-img: gravitate.png
+img: WIA.png
 category: Services
-title: Iowa .NET User Group:<br>
+title: Women In Agile:<br>
 description: |
 ---
   Modeling Better Decisions talk will be presented at the Women In Agile - Columbus, Ohio on Thu, 9 June 2021,<br><br>

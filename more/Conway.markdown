@@ -1,3 +1,14 @@
+---
+layout: default
+img: ipad.png
+category: More
+title: Conway's 
+subtitle: asdf
+
+
+---
+The description of this service
+
 Name: Conways Law
 Summary: An organization's structure influences communication paths which influences an application's architecture.
 If a company organizes around functional specialities, solutions will require a copious consumption of communication, collaboration, and coordination cost.
