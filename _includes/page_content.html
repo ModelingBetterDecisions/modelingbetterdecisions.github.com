@@ -1,16 +1,14 @@
-hello world
-<section id="moar">
+<section id="services">
     <!-- Page Content -->
     {% for post in site.posts reversed %}
-      {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-        {% if thecycle == 'odd' %}
-    
-        <div class="content-section-a">
-            <div class="container">
-    asdfasdf
-                <div class="row">
-                    <div class="col-lg-5 col-sm-6">
-                        <hr class="section-heading-spacer">
+    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% if thecycle == 'odd' %}
+
+    <div class="content-section-a">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-sm-6">
+                    <hr class="section-heading-spacer">
                         <div class="clearfix"></div>
                         <h2 class="section-heading">{{ post.title }}</h2>
                         <div class="lead">{{ post.content }}</div>

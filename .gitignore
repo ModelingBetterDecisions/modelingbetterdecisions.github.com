@@ -1,3 +1,5 @@
 _site
 *.lock
 *.ini
+/.idea/.idea.modelingbetterdecisions.github.com.dir/.idea/
+/.vscode/
