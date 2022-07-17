@@ -1,5 +1,11 @@
-Name: SWOT Analysis
-Summary: A mainstay in MBA study, the SWOT Analysis categorizes infleuntial aspects to a company as Stregnths, Weaknesses, Opportunities or Threats.
+---
+layout: moar
+img:
+category: model
+title: SWOT Analysis
+description: |
+---
+ A mainstay in MBA study, the SWOT Analysis categorizes infleuntial aspects to a company as Stregnths, Weaknesses, Opportunities or Threats.
 It allows one to explore that which is helpful or harmful. You can look inteneral and extrenal.
 Exploring SWOT allows one to objectively balance their view or an organization with honesty.  They can use their Stregnths to make the most of Opportunities and bolster Weaknesses to defend Threats. 
 

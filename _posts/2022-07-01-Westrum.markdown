@@ -1,5 +1,11 @@
-Name: Westrum 
-Summary: The culture of an organization reflects how effective the organization can deliver and how happy the people in the organization are. 
+---
+layout: moar
+img:
+category: model
+title: Westrum
+description: |
+---
+The culture of an organization reflects how effective the organization can deliver and how happy the people in the organization are. 
 Top performing organizations have Generative cultures and embrace psychological safety.
 Lower performing organizations spend more energy avoiding accountability and blame.
 

@@ -1,5 +1,11 @@
-Name: SMART Goals
-Summary: Effective goals are clear goals.  
+---
+layout: moar
+img:
+category: model
+title:SMART Goals
+description: |
+---
+Effective goals are clear goals.  
 SMART is a mnemonic to make sure our goal has all the key elements for success.
 Is it Specific?  Clear?  Not too generic?
 Can we Measure it?

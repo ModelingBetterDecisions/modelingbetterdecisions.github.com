@@ -1,5 +1,11 @@
-Name: The Three Ways
-Summary: Based on Theory of Constraints and Lean Manugactoring, the 3 Ways has been central to the DevOps movement.  
+---
+layout: moar
+img:
+category: model
+title: The Three Ways
+description: |
+---
+Based on Theory of Constraints and Lean Manugactoring, the 3 Ways has been central to the DevOps movement.  
 The focus ensures that improvements are supported to be sustainable.  
 For example, it doesn't help us to know what errors are happening in production if we can't reliably deliver a solution.  
 We don't want to tweak a step in the process without knowing if it makes the overall process better or worse. 

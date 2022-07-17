@@ -1,3 +1,10 @@
+---
+layout: moar
+img:
+category: model
+title:
+description: |
+---
 <head>
 
     <meta charset="utf-8">

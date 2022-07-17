@@ -1,5 +1,11 @@
-Name: SATIR Model of change
-AKA: J-Curve
+---
+layout: moar
+img:
+category: model
+title:SATIR Model of change
+description: |
+---
+ J-Curve
 Summary: Psychologist Virginia Satir's work with families in the 1950's maps the 5 stages of the change process.
 When the status quo isn't acceptable, new behaviors are introduced.
 Performance is likely to drop during the transition period.  Likewise, anxiety may rise.

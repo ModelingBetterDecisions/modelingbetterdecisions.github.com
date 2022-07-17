@@ -1,0 +1,13 @@
+---
+layout: moar
+img:
+category: model
+title: Weinberg Addiction Pattern
+description: |
+---
+TBD
+
+
+
+
+Reference:

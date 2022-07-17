@@ -1,3 +1,10 @@
+---
+layout: moar
+img:
+category: model
+title:
+description: |
+---
 Name: Dunning-Krueger Effect
 Summary: 
 A little bit of knowledge may be reflected with high levels of confidence amongst novices.

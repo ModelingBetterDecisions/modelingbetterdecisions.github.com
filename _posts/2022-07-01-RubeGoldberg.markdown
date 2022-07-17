@@ -1,3 +1,10 @@
+---
+layout: moar
+img:
+category: model
+title:
+description: |
+---
 Name: Rube Goldberg
 Summary: Not necessary a model, but a helpful visual reference. 
 19XX's artist Rube Goldberg created unnecessarily complex processes to complete a simple task. 

@@ -3,7 +3,7 @@ layout: moar
 img: ipad.png
 category: moar
 title: Conway's 
-escription: |
+description: |
 ---
   Modeling Better Decisions talk will be presented at the Iowa .NET User Group on Thu, 7 March 2019,<br><br>
 

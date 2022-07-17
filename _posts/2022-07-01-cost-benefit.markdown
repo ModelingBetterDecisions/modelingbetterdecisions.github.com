@@ -1,6 +1,11 @@
-Name: Cost Benefit analysis
-aka: Is the Juice worth the Squeeze
-Summary: How can we quantifiably justify an expendituer for an improved return?
+---
+layout: moar
+img:
+category: model
+title: Cost Benefit Analysis
+description: |
+---
+ How can we quantifiably justify an expendituer for an improved return?
 
 Instrumented in the Flood Control Act of 1939, this model established policy requiring that "the benefits to whomever they accrue [be] in excess of the estimated costs.".  
 Combined with other models, this is an important aspect to consider when making a decision regarding the distribution of funds.
