@@ -1,6 +1,6 @@
 <section id="services">
     <!-- Page Content -->
-    {% for post in site.posts reversed %}
+    {% for post in site.posts %}
     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
 
     {% if post.category == 'model' %}
@@ -14,6 +14,9 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">{{ post.title }}</h2>
+                    {% if post.aka != null %}
+                    <h4 class="section-heading-sub">(aka {{ post.aka }})</h4>
+                    {% endif %}
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
