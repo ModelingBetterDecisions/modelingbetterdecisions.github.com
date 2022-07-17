@@ -2,13 +2,9 @@
 layout: moar
 img:
 category: model
-title: Weinberg Addiction Pattern
-aka: also known as
+title: Test Driven Development (TDD) - Red/Green/Refactor
 description: |
 ---
-TBD
-
-
-
+ TBD
 
 Reference:

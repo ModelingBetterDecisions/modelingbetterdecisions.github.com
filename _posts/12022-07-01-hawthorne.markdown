@@ -2,10 +2,9 @@
 layout: moar
 img:
 category: model
-title:
+title:Hawthorne Effect
 description: |
 ---
-Name: Standard Risk Model
-Summary: TBD
+TBD
 
 Reference:

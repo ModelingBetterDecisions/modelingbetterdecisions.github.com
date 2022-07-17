@@ -2,11 +2,11 @@
 layout: moar
 img:
 category: model
-title:
+title: The Responsibility Process
 description: |
 ---
-Name: The Responsibility Process
-Summary: Based off of Dr. Avery’s field studies, this process (much like the psychological stages of grief) models how people respond when things go wrong.  
+
+ Based off of Dr. Avery’s field studies, this process (much like the psychological stages of grief) models how people respond when things go wrong.  
 This can be used to understand how others are responding to an event, but even better to recognize how you are.
 
 Reference:

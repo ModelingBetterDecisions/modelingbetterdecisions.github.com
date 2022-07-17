@@ -2,12 +2,10 @@
 layout: moar
 img:
 category: model
-title:
+title: Rumsfeld Model  (AKA: Johari's Window)
 description: |
 ---
-Name: Rumsfeld Model
-AKA: Johari's Window
-Summary: Matrix of Known and Unknown information.
+ Matrix of Known and Unknown information.
 1) Known-Knowns - The things we know we know. Things we will speak of with confidence and conviction. 
 2) Known-Unknowns - That which we know we don't know.  Questions we need to find answers for.
 3) Unknown-Unknowns - The things we don't know we don't know.  Often the surprise which creates misery. Requires intentional, open-ended questions to surface. Others may assume you know and you will need to be explicit to uncover invalid assumptions.

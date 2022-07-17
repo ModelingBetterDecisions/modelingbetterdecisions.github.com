@@ -2,10 +2,8 @@
 layout: moar
 img:
 category: model
-title:
+title: Produce Coaching Model
 description: |
 ---
-Name: Hawthorne Effect
-Summary: TBD
 
-Reference:
+Summary: TBD

@@ -2,10 +2,7 @@
 layout: moar
 img:
 category: model
-title:
+title:Letwin's Equation
 description: |
 ---
-Name: Integral Model
-Summary: TBD
-
-Reference:
+TBD

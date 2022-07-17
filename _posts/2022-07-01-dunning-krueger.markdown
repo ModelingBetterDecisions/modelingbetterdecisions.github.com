@@ -2,11 +2,9 @@
 layout: moar
 img:
 category: model
-title:
+title:Dunning-Krueger Effect
 description: |
 ---
-Name: Dunning-Krueger Effect
-Summary: 
 A little bit of knowledge may be reflected with high levels of confidence amongst novices.
 As more is known, confidence may drop until enough knowledge, context and experience validate's an expert's confidence.
 

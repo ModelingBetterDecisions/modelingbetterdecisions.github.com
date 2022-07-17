@@ -2,8 +2,9 @@
 layout: moar
 img:
 category: model
-title:
+title:Integral Model
 description: |
 ---
-Name: Letwin's Equation
-Summary: TBD
+TBD
+
+Reference:

@@ -2,10 +2,9 @@
 layout: moar
 img:
 category: model
-title: Scatter Gather model
+title: Scatter Gather model (aka  Divide And Conquer)
 description: |
 ---
- Divide And Conquer
-Summary: An optimization strategy focused on short-term, individual gains.  
+An optimization strategy focused on short-term, individual gains.  
 Focusing on multiple individuals to work on parallel tasks creates the illusion of shorter cycle times.  
 Often this is not the case.  Knowledge silos may create bottlenecks. Knowledge Transfer and documentation are add-on processes to address the symptoms and come at the cost of future work.  

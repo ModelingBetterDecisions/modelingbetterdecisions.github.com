@@ -2,8 +2,9 @@
 layout: moar
 img:
 category: model
-title:
+title:Standard Risk Model
 description: |
 ---
-Name: Produce Coaching Model
-Summary: TBD
+TBD
+
+Reference:
