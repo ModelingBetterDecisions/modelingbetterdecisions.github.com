@@ -2,7 +2,8 @@
 layout: moar
 img:
 category: model
-title: Rumsfeld Model  (AKA: Johari's Window)
+title: Rumsfeld Model 
+aka: Johari's Window
 description: |
 ---
  Matrix of Known and Unknown information.

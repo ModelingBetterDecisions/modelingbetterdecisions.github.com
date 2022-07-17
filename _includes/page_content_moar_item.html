@@ -1,0 +1,11 @@
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">{{ post.title }}</h2>
+                    {% if post.aka != null %}
+                    <h4 class="section-heading-sub">(aka {{ post.aka }})</h4>
+                    {% endif %}
+                    <div class="lead">{{ post.content }}</div>
+
+                    {% if post.link != null %}
+                    <div class=""><a target="_blank" href="{{ post.link }}" >more ... {{ post.link }}</a></div>
+                    {% endif %}
