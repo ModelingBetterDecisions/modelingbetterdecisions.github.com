@@ -1,8 +1,8 @@
 ---
 layout: moar
-img:
+img: Dunning-Kruger.jpeg
 category: model
-title:Dunning-Krueger Effect
+title: Dunning-Krueger Effect
 description: |
 ---
 A little bit of knowledge may be reflected with high levels of confidence amongst novices.

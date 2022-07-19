@@ -1,6 +1,6 @@
 ---
 layout: moar
-img:
+img: ResponsibilityProcess.jpeg
 category: model
 title: The Responsibility Process
 description: |

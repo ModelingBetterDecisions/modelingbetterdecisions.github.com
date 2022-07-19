@@ -1,8 +1,8 @@
 ---
 layout: moar
-img:
+img: stevenSmith_satir_graph.png
 category: model
-title:SATIR Model of change
+title: SATIR Model of change
 description: |
 ---
  J-Curve
