@@ -1,6 +1,6 @@
 ---
 layout: moar
-img:
+img: westrum.png
 category: model
 title: Westrum
 description: |
