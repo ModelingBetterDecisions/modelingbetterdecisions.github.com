@@ -3,3 +3,4 @@ _site
 *.ini
 /.idea/.idea.modelingbetterdecisions.github.com.dir/.idea/
 /.vscode/
+.DS_Store
