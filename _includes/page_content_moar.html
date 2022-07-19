@@ -1,32 +1,50 @@
-<!--moar-->
-<!--{% for post in site.posts %}-->
-<!--asdf-->
-<!--<section id="services">-->
-<!--    &lt;!&ndash; Page Content &ndash;&gt;-->
-<!--&lt;!&ndash;    {% for post in site.posts %}&ndash;&gt;-->
-<!--&lt;!&ndash;    post.title moar&ndash;&gt;-->
-<!--        <div class="content-section-a">-->
-<!--            <div class="container">-->
-<!--                <div class="row">-->
-<!--                    <div class="col-lg-5 col-sm-6">-->
-<!--                        <hr class="section-heading-spacer">-->
-<!--                        <div class="clearfix"></div>-->
-<!--                        <h2 class="section-heading">{{ post.title }}</h2>-->
-<!--                        <div class="lead">{{ post.content }}</div>-->
-<!--                    </div>-->
-<!--                    <div class="col-lg-5 col-lg-offset-2 col-sm-6">-->
-<!--                        <img class="img-responsive" src="img/services/{{ post.img }}" alt="">-->
-<!--                    </div>-->
-<!--                </div>-->
-<!--    -->
-<!--            </div>-->
-<!--            &lt;!&ndash; /.container &ndash;&gt;-->
-<!--    -->
-<!--        </div>-->
-<!--        &lt;!&ndash; /.content-section-a &ndash;&gt;-->
-<!--        &lt;!&ndash; /.content-section-b &ndash;&gt;-->
-<!--&lt;!&ndash;    {% endfor %}&ndash;&gt;-->
-<!--    </section>-->
+<section id="services">
+    <!-- Page Content -->
+    {% for post in site.posts %}
+    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
 
-<!--{% endfor %}-->
-<!-- -->    
+    {% if post.category == 'model' %}
+
+    {% if thecycle == 'odd' %}
+
+    <div class="content-section-a">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-sm-6">
+                {% include page_content_moar_item.html %}
+                </div>
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                    <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-a -->
+    {% else %}
+
+    <div class="content-section-b">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                    {% include page_content_moar_item.html %}
+                </div>
+                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                    <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-b -->
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+</section>
+    

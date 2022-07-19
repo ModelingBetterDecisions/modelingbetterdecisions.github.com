@@ -1,0 +1,10 @@
+---
+layout: moar
+img:
+category: model
+title:Integral Model
+description: |
+---
+TBD
+
+Reference:

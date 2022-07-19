@@ -1,8 +1,0 @@
----
-layout: moar
-img: Agile2022.png
-category: moar
-title: model test:<br>
-description: |
----
-model information test cat

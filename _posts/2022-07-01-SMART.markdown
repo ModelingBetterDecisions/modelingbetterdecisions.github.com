@@ -1,0 +1,20 @@
+---
+layout: moar
+img:
+category: model
+title:SMART Goals
+description: |
+---
+Effective goals are clear goals.  
+SMART is a mnemonic to make sure our goal has all the key elements for success.
+Is it Specific?  Clear?  Not too generic?
+Can we Measure it?
+Is it Achievable, even if aspirational?
+Does this deliver Results? The outcomes we desire?
+Are we time-based so it doesn't just float around forever?
+
+When Goals are being communicated, SMART includes some questions that can be asked to ensure the goals are achieved!
+
+Reference:
+Doran, G. T. (1981). "There's a S.M.A.R.T. way to write management's goals and objectives". Management Review
+https://en.wikipedia.org/wiki/SMART_criteria

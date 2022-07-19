@@ -1,0 +1,15 @@
+---
+layout: moar
+img:
+category: model
+title: Weinberg Addiction Pattern
+aka: also known as
+link: 'google.com'
+description: |
+---
+TBD
+
+
+
+
+Reference:

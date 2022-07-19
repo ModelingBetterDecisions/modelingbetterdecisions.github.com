@@ -1,0 +1,22 @@
+---
+layout: moar
+img:
+category: model
+title: Dreyfus Model of Skill Acquisition
+description: |
+---
+AKA: Genesis of the expertise
+
+ We go throught a journey when learning.  
+Early on, the concepts and relationships seem reasonable.  We can logically understand.  
+Your understanding of a given topic is reflected in your abillity to do the thing, talk about the thing and then evenaually teach the thing so someone else can explain or do it.
+
+The approach and words we use reflects both where we are on our jouurney and where we perceive others to be.
+Attempting to teach someone is a great way to identify what you may need to learn more to be effective.
+
+Reference:
+Stuart and Hubert Dreyfus - 1980
+https://www.bumc.bu.edu/facdev-medicine/files/2012/03/Dreyfus-skill-level.pdf
+http://everydaylean.info/2014/01/dreyfus-hopping-mad/
+
+
