@@ -1,10 +1,13 @@
 ---
 layout: moar
-img:
+img: tdd-rules.jpeg
 category: model
 title: Test Driven Development (TDD) - Red/Green/Refactor
+link: http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd
 description: |
 ---
- TBD
-
+A staple of modern software development practices.  The software's design is formed when tests are first written as the purpose of the code is declared.
+The test determines your context and expected result.  The test fails upon first run and shows up as the color Red in the automated test runner.  
+After the code is written to implement the desired functionality, the test runner turns Green.
+As the functionality has been proven, the developer can refactor the code to adhere to an improved pattern, maintaining proven functionality.
 Reference:

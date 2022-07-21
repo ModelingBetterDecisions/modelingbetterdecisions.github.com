@@ -1,8 +1,8 @@
 ---
 layout: moar
-img: 
+img: build-vs-buy.png
 category: model
-title: Buy vs Build
+title: Build vs Buy
 description: |
 ---
 It's difficult to know what to say Yes to or No to.  

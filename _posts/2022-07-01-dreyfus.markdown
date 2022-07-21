@@ -1,6 +1,6 @@
 ---
 layout: moar
-img:
+img: dreyfus-novice-expert.jpg
 category: model
 title: Dreyfus Model of Skill Acquisition
 description: |

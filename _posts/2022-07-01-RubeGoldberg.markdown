@@ -1,6 +1,6 @@
 ---
 layout: moar
-img: rube_goldberg.jpg
+img: rube-goldberg.jpg
 category: model
 title: Rube Goldberg
 description: |

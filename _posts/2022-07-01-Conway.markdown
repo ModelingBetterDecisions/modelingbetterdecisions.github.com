@@ -5,16 +5,7 @@ category: model
 title: Conways Law 
 description: |
 ---
-  Modeling Better Decisions talk will be presented at the Iowa .NET User Group on Thu, 7 March 2019,<br><br>
-
-  5:45 PM - 6:00 PM - Pizza<br>
-  6:00 PM - 7:00 PM - Modeling Better Decisions
-
-
-The description of this service
-
-Name: Conways Law
-Summary: An organization's structure influences communication paths which influences an application's architecture.
+An organization's structure influences communication paths which influences an application's architecture.
 If a company organizes around functional specialities, solutions will require a copious consumption of communication, collaboration, and coordination cost.
 
 Understanding the model we exist in provides us an opportunity for a Reverse Conway manuever. This is where we work backwards with the end goal in mind. 
@@ -26,8 +17,8 @@ Does one unit of value need to be prioritized repeatedly for different teams?  D
 
 Reference:
 Melvin E. Conway - 1968
-http://www.melconway.com/research/committees.html
+<a href='http://www.melconway.com/research/committees.html' target='new'>http://www.melconway.com/research/committees.html</a>
 
-"Team Topologies" by Matthew Skelton and Manuel Pais https://teamtopologies.com/
+"Team Topologies" by Matthew Skelton and Manuel Pais <a href='https://teamtopologies.com/' target='new'>https://teamtopologies.com/</a>
 
-https://tomtunguz.com/conways-law/
+<a href='https://tomtunguz.com/conways-law' target='_new'>https://tomtunguz.com/conways-law</a>

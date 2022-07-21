@@ -1,6 +1,6 @@
 ---
 layout: moar
-img: cost-benefit.jpg
+img: cost-benefit.png
 category: model
 title: Cost Benefit Analysis
 description: |

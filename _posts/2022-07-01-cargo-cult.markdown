@@ -1,8 +1,9 @@
 ---
 layout: moar
-img:
+img: cargo-cult.png
 category: model
 title: Cargo Cult
+link: https://en.wikipedia.org/wiki/Cargo_cult
 description: |
 ---
 The scenario where people go through the motions without knowing the purpose of them or the nuances which would impact the outcomes.  

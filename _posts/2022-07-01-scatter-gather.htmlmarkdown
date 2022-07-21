@@ -1,8 +1,9 @@
 ---
 layout: moar
-img:
+img: scatter-gather.png
 category: model
 title: Scatter Gather model (aka  Divide And Conquer)
+link: https://www.industriallogic.com/blog/scatter-gather/
 description: |
 ---
 An optimization strategy focused on short-term, individual gains.  

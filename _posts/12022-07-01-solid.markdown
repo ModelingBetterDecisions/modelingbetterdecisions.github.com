@@ -2,7 +2,7 @@
 layout: moar
 img:
 category: model
-title:SOLID Principles for Software Development
+title: SOLID Principles for Software Development
 description: |
 ---
 TBD
