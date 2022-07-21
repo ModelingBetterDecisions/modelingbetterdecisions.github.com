@@ -1,6 +1,6 @@
 ---
 layout: moar
-img:
+img: smart.jpeg
 category: model
 title:SMART Goals
 description: |

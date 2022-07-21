@@ -1,12 +1,12 @@
 ---
 layout: moar
-img:
+img: rube_goldberg.jpg
 category: model
 title: Rube Goldberg
 description: |
 ---
 Not necessary a model, but a helpful visual reference. 
-19XX's artist Rube Goldberg created unnecessarily complex processes to complete a simple task. 
+Artist Rube Goldberg created unnecessarily complex processes to complete a simple task. 
 Systems are often influenced by Conway's Law and Industrial-Revolution-era mindsets (Fredrick Taylor's Scientific management).
 Prioritizing local-optimization can lead to many pieces which don't work well as a whole.
 

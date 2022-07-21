@@ -1,6 +1,6 @@
 ---
 layout: moar
-img:
+img: three-ways.png
 category: model
 title: The Three Ways
 description: |
