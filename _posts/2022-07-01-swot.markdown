@@ -1,6 +1,6 @@
 ---
 layout: moar
-img:
+img: swot.png
 category: model
 title: SWOT Analysis
 description: |

@@ -1,6 +1,6 @@
 ---
 layout: moar
-img:
+img: rumsfeld.png
 category: model
 title: Rumsfeld Model 
 aka: Johari's Window
