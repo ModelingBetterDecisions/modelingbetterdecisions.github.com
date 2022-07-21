@@ -6,6 +6,17 @@
                     {% endif %}
                     <div class="lead">{{ post.content }}</div>
 
+
+                    {% if post.reference != null %}
+                    <div class="lead">Reference: <br>{{ post.reference }}</div>
+                    {% endif %}
+                    
                     {% if post.link != null %}
-                    <div class=""><a target="_blank" href="{{ post.link }}" >more ... {{ post.link }}</a></div>
+                    <div class=""><a target="_blank" href="{{ post.link }}" >{{ post.link }}</a></div>
+                    {% endif %}
+                    {% if post.link2 != null %}
+                    <div class=""><a target="_blank" href="{{ post.link2 }}" >{{ post.link2 }}</a></div>
+                    {% endif %}
+                    {% if post.link4 != null %}
+                    <div class=""><a target="_blank" href="{{ post.link3 }}" >{{ post.link3 }}</a></div>
                     {% endif %}

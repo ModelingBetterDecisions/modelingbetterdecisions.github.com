@@ -2,7 +2,9 @@
 layout: moar
 img: westrum.png
 category: model
-title: Westrum
+title: Westrum Cultural Model
+link2: https://itrevolution.com/accelerate-book/
+link: https://qualitysafety.bmj.com/content/13/suppl_2/ii22
 description: |
 ---
 The culture of an organization reflects how effective the organization can deliver and how happy the people in the organization are. 
@@ -11,10 +13,3 @@ Lower performing organizations spend more energy avoiding accountability and bla
 
 It is helpful to understand the organization’s relationship with safety and it can be used to predict how organizations or parts of them will behave when signs of trouble arise.  
 This model was heavily referenced in the research (using rigorous statistical methods) presented in the book “Accelerate - The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations”.
-
-
-Reference:
-Accelerate: https://itrevolution.com/accelerate-book/
-https://qualitysafety.bmj.com/content/13/suppl_2/ii22
-
-https://continuousdelivery.com/images/westrum.png

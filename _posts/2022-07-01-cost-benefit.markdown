@@ -2,6 +2,8 @@
 layout: moar
 img: cost-benefit.png
 category: model
+reference: Jules Dupuit, Alfred Marshall 1939
+link: https://web.archive.org/web/20060616003822/http://chicagoasa.org/downloads/CostBenefitConference2006/benefit%20cost%20history.pdf
 title: Cost Benefit Analysis
 description: |
 ---
@@ -15,7 +17,3 @@ Opportunity Cost also should be introduced into the decision making process as T
 The relationship betwen Cost and Value is critical. 
 It is often difficult to validate as we leverage the data which is often most easy to collect.
 (aka availability bias).
-
-Reference:
-Jules Dupuit, Alfred Marshall 1939
-https://web.archive.org/web/20060616003822/http://chicagoasa.org/downloads/CostBenefitConference2006/benefit%20cost%20history.pdf

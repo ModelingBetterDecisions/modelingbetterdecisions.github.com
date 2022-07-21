@@ -4,6 +4,9 @@ img: rumsfeld.png
 category: model
 title: Rumsfeld Model 
 aka: Johari's Window
+link: https://www.youtube.com/watch?v=REWeBzGuzCc
+link2: https://www.youtube.com/watch?v=nAnKdq5Yty8
+link3: https://www.theinovogroup.com/deconstructing-rumsfeld-knowledge-and-ignorance-in-the-age-of-innovation/
 description: |
 ---
  Matrix of Known and Unknown information.
@@ -13,10 +16,3 @@ description: |
 4) Unknown-knowns - Things we didn't know we know (i.e. how good of a salsa dancer we are, or we may have some info others need)
 
 This model is useful to confirm what is known and what needs to be known.  What is fact, what is opinion?  What is assumed? How can you surface the informaiton you need?
-
-Reference:
-Donald Rumsfeld,  US Secretary of Defense  2002 
-https://www.youtube.com/watch?v=REWeBzGuzCc
-https://www.youtube.com/watch?v=nAnKdq5Yty8
-https://www.theinovogroup.com/deconstructing-rumsfeld-knowledge-and-ignorance-in-the-age-of-innovation/
-

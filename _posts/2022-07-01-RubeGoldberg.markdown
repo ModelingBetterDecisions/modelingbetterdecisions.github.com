@@ -3,6 +3,7 @@ layout: moar
 img: rube-goldberg.jpg
 category: model
 title: Rube Goldberg
+link: https://www.rubegoldberg.org/
 description: |
 ---
 Not necessary a model, but a helpful visual reference. 
@@ -12,6 +13,3 @@ Prioritizing local-optimization can lead to many pieces which don't work well as
 
 "Things are the way they are because they got that way" - Gerry Weinberg
 This is another example of how many small decisions might be cohesive.
-
-Reference:
-Rube Goldberg reference materials/images.

@@ -4,6 +4,8 @@ img: disc-priorities-c-style-enthusiasm.png
 category: model
 title: DISC Personality Model
 aka:  Meyers Briggs Model
+reference: William Moulton Marston - 1928 (Emotions of Normal People - Book)
+link: https://www.discprofile.com/what-is-disc/history-of-disc/
 description: |
 ---
 Understanding our values and how we operate is as important as recognizing the same in others. 
@@ -12,6 +14,3 @@ Often we project our own values onto others and are met with conflict.
 This is one of many personality profiles this can help highlight people’s values and motivations.  
 The discussions a personality profile drives can be more valuable than the assessment itself.
 
-Reference:
-William Moulton Marston - 1928 (Emotions of Normal People - Book)
-https://www.discprofile.com/what-is-disc/history-of-disc/
